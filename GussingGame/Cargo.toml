@@ -1,0 +1,6 @@
+[package]
+name = "GussingGame"
+version = "0.1.0"
+authors = ["Fantasy Shao <forever.fantasy27@gmail.com>"]
+[dependencies]
+rand="0.3.8"
